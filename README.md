@@ -158,7 +158,9 @@ A total of **12 ML models** were trained:
 
 📁 Project
  ├── 📁 Cleaned Datasets
+ ---
  ├── 📁 Original Datasets
+ ---
  ├── 📁 EDA Task1
  ├── 📁 ML Algorithm Task2
  └── README.md
