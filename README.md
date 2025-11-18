@@ -158,12 +158,38 @@ A total of **12 ML models** were trained:
 
 ## 📎 Project Files
 
-| File | Description |
-|------|-------------|
-| `EDA_code.ipynb` | Complete Python EDA |
-| `ML-mini-project-Presentation.pdf` | Final project PPT |
-| `22070521132_CA1_EDA_Report_ML.pdf` | Detailed EDA report |
-| `/datasets/` | All CSV datasets used |
+## 📎 Project Files
+
+| File / Folder | Description |
+|---------------|-------------|
+| **cleaned_dim_date.csv** | Cleaned date dimension dataset |
+| **cleaned_dim_hotels.csv** | Cleaned hotels dataset |
+| **cleaned_dim_rooms.csv** | Cleaned rooms dataset |
+| **cleaned_fact_aggregated_bookings.csv** | Cleaned aggregated bookings dataset |
+| **cleaned_original_bookings.csv** | Cleaned original booking dataset |
+| **dim_date.csv** | Raw date dimension dataset |
+| **dim_hotels.csv** | Raw hotel metadata |
+| **dim_rooms.csv** | Raw room type dataset |
+| **fact_aggregated_bookings.csv** | Raw aggregated booking dataset |
+| **orignal_bookings_data.csv** | Raw booking transaction dataset |
+| **new_data_august.csv** | Additional raw dataset (August snapshot) |
+| **EDA_code.ipynb** | Complete Exploratory Data Analysis |
+| **average occupancy rate.jpg** | EDA: Room occupancy visualization |
+| **montly_revenue.jpg** | EDA: Monthly revenue trend |
+| **property.jpg** | EDA: Property-wise occupancy visualization |
+| **revenue_dayType.jpg** | EDA: Weekday vs weekend revenue |
+| **revenue_platform.png** | EDA: Revenue by booking platform |
+| **suucessful_booking.jpg** | EDA: Successful bookings summary |
+| **22070521132_CA1_EDA_Report_ML.pdf** | Detailed EDA report |
+| **ML_Shivam_Verma.ipynb** | ML model training & evaluation notebook |
+| **ML-mini-project-Presentation.pdf** | Final ML project presentation |
+| **README.md** | Project documentation |
+| **Cleaned Datasets/** | Folder containing all cleaned datasets |
+| **Orignal Datasets/** | Folder containing all original datasets |
+| **EDA Task1/** | Folder containing EDA notebook & insights |
+| **ML algorithm Task2/** | Folder for ML notebook |
+
+---
 
 ---
 
