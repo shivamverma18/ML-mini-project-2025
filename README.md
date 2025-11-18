@@ -180,8 +180,8 @@ A total of **12 ML models** were trained:
 ## 📫 Contact
 
 **Shivam Verma**  
-📧 Email: *your email here*  
-🔗 GitHub: https://github.com/shivamverma9808  
+📧 Email: *shivamgverma99@gmail.com*  
+
 
 ---
 
