@@ -154,7 +154,7 @@ A total of **12 ML models** were trained:
 - Apply **NLP for review sentiment analysis**  
 - Build an **Interactive Dashboard (Power BI / Streamlit)**  
 
----
+
 
 📁 Project
  ├── 📁 Cleaned Datasets
@@ -163,8 +163,7 @@ A total of **12 ML models** were trained:
  ├── 📁 ML Algorithm Task2
  └── README.md
 
---
----
+
 
 ## 🛠️ Tech Stack
 
