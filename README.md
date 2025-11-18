@@ -1,6 +1,6 @@
 # 🏨 Hotel Booking Prediction — Machine Learning Mini Project  
 ### 📌 Author: **Shivam Verma (PRN: 22070521132)**  
-### 📚 Course: Machine Learning (CA4)  
+### 📚 Course: Machine Learning 
 ### 🏫 Symbiosis Institute of Technology, Nagpur  
 ### 👨‍🏫 Guided by: **Dr. Piyush Chauhan**
 
